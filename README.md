@@ -7,7 +7,7 @@ Insufficient variation refers to certain conditions in which observed and expect
 
 ### Usage
 ```python3
->>> import kripp_juan as k
+>>> import krippendorff_update as k
 >>> import numpy as np
 >>> data = np.array([[1,1,1],[1,2,1],[1,3,2]])
 >>> data
